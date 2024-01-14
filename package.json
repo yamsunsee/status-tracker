@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "tailwindcss": "^3.4.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "status-tracker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
